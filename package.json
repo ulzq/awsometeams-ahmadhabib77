@@ -1,0 +1,16 @@
+{
+  "name": "awesometeams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anx@digitalcareerinstitute.org",
+  "license": "GPL-3.0",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.12.0"
+  }
+}
